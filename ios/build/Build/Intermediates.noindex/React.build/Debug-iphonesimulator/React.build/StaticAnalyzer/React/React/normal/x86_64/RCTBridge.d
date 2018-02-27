@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/quhuainan/github/RNMiWeather/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/quhuainan/github/RNMiWeather/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/quhuainan/github/RNMiWeather/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/quhuainan/github/RNMiWeather/node_modules/react-native/React/Base/RCTReloadCommand.h
